@@ -1,0 +1,18 @@
+# Core Dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+
+# TTS Engine
+edge-tts
+
+# Emotion Detection
+transformers
+torch
+
+# Audio Processing
+pydub
+
+# Utilities
+aiofiles
+pydantic
