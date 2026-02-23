@@ -58,3 +58,5 @@ The engine uses the following mapping strategy to achieve emotional resonance:
 - **Model Choice**: `j-hartmann/emotion-english-distilroberta-base` was chosen for its high accuracy and ability to distinguish between 7 distinct emotions, allowing for more granular modulation than a simple positive/negative model.
 - **TTS Engine**: `edge-tts` (Microsoft Edge TTS API) provides significantly better prosody and naturalness compared to offline alternatives like `pyttsx3`, making the "empathy" effect much more convincing.
 - **UI Design**: The interface uses a dark theme with backdrop filters (glassmorphism) to provide a premium, futuristic feel consistent with the "Empathy Engine" concept.
+
+<!-- Owner: Anuj Yadav -->
